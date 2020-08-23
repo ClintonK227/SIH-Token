@@ -14,5 +14,6 @@ Telegram:         https://t.me/joinchat/GTCD2hjho4PsXaSlxjWs5Q
 
 Contract 
 https://etherscan.io/address/0x6d728ff862bfe74be2aba30537e992a24f259a22
+
 Token
 https://etherscan.io/token/0x6d728ff862bfe74be2aba30537e992a24f259a22
