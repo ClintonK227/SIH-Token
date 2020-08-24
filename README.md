@@ -1,5 +1,5 @@
 # SIH-Token
-SIH is the world’s first blockchain-based global investment platform with a Stablecoin reward system.
+SIH is a blockchain-based global investment platform with a Stablecoin reward system.
 There is no need to sell off your SIH tokens to gain profits the dividend is paid out while holding the tokens (staking). 
 Averting the negative impact of profit taking on its market price from sales.
 You have full control of your own funds in your own wallet at all times. 
