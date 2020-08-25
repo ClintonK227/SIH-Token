@@ -8,7 +8,7 @@ There is no platform to register or send your tokens to, the monthly returns are
 Useful links
 Official Website: https://salientinvestmentholding.com/
 
-Discord:          https://discord.gg/vWTWQHB
+Discord:          https://discord.gg/bZHcXnY
 
 Telegram:         https://t.me/joinchat/GTCD2hjho4PsXaSlxjWs5Q
 
